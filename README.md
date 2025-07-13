@@ -35,9 +35,6 @@ A desktop application for managing exams, developed in C# using WPF, as part of 
 ## Credits
 
 This project was developed by:
-- Yoaz Sabag (205826001)  
-- Dor Bar Shalom (305786527)  
+- Yoaz Sabag 
+- Dor Bar Shalom 
 
-## License
-
-This project is provided for educational purposes.
